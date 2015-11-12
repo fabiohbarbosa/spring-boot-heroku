@@ -44,12 +44,11 @@ git push heroku master
 
 ##### Test your Application
 
-Access:
+Access the Spring Actuator API:
 
 https://your-application-name.herokuapp.com/health
 
 or
-
 ```sh
 curl https://your-application-name.herokuapp.com/health
 ```
