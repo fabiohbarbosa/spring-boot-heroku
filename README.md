@@ -60,9 +60,9 @@ Here I'm listing the most important configurations of Spring Boot
 </plugin>
 ```
 
-**finalName** in *spring-boot-maven-plugin* in and *maven-jar-plugin*, is very important to fix the name of JAR file, so we can configure the Procfile.
+**finalName** in *spring-boot-maven-plugin* and *maven-jar-plugin*, is very important to fix the name of JAR file, so we can configure the Procfile.
 
-The **repackage goal** repackaging an application as an executable JAR/WAR as well as a goal for running the application.
+The **repackage goal**, repackaging an application as an executable JAR/WAR as well as a goal for running the application.
 
 ##### Configure Heroku Spring Boot Deploy
 
