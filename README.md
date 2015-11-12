@@ -1,5 +1,5 @@
 # spring-boot-heroku
-Heroku Spring Boot Example
+Heroku Spring Boot Example With Maven
 
 ### Table of contents
 1. [Configure Heroku](#configure-heroku)
