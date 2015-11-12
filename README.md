@@ -2,14 +2,14 @@
 Heroku Spring Boot Example
 
 ### Table of contents
-1. [Generate SSH Key](#generate-ssh-key)
-1. [Addings Key to Heroku](#addings-key-to-heroku)
-1. [Create Heroku App](#create-heroku-app)
-1. [Configure Heroku Spring Boot Deploy](#configure-heroku-spring-boot-deploy)
-1. [Deploy Application](#deploy-application)
-1. [Test your Application](#test-your-application)
-
-
+1. [Configure Heroku](#configure-heroku)
+    1. [Generate SSH Key](#generate-ssh-key)
+    1. [Addings Key to Heroku](#addings-key-to-heroku)
+    1. [Create Heroku App](#create-heroku-app)
+    1. [Configure Heroku Spring Boot Deploy](#configure-heroku-spring-boot-deploy)
+    1. [Deploy Application](#deploy-application)
+    1. [Test your Application](#test-your-application)
+1. [Next Steps](#next-steps)
 
 
 ### Configure Heroku
@@ -52,3 +52,6 @@ or
 ```sh
 curl https://your-application-name.herokuapp.com/health
 ```
+
+### Next Steps
+Hot deploy on Heroku...
